@@ -6,7 +6,7 @@
 
 This is a simple note taking app that was built using express.js. The purpose of this project was to design the backend using express.js so that the notes can be saved, written to a json file, and then deleted using a unique ID.
 
-The website is currently live on heroku, if you would like to visit the site [click right here.]()
+The website is currently live on heroku, if you would like to visit the site [click right here.](https://obscure-island-89872.herokuapp.com)
 
 ## Questions
 
