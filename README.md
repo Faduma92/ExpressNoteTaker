@@ -1,6 +1,6 @@
 # Express Note Taker
 
-[![repo size](https://img.shields.io/badge/repo%20size-327%20MB-blue)]
+![repo size](https://img.shields.io/badge/repo%20size-327%20MB-blue)
 
 ## Description
 
